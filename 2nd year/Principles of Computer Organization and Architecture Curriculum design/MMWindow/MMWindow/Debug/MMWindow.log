@@ -1,0 +1,45 @@
+﻿生成启动时间为 2013/12/24 14:41:27。
+     1>项目“C:\Users\Administrator.ZGC-20121015TEI\Desktop\计组课程设计\MMWindow\MMWindow\MMWindow.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\MMWindow.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         所有输出均为最新。
+         D:\VC2010\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _MBCS /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\MMWindow.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt MainPage.cpp
+         MainPage.cpp
+       ResourceCompile:
+         所有输出均为最新。
+       ManifestResourceCompile:
+         所有输出均为最新。
+       Link:
+         D:\VC2010\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Administrator.ZGC-20121015TEI\Desktop\计组课程设计\MMWindow\Debug\MMWindow.exe" /INCREMENTAL /NOLOGO /MANIFEST /ManifestFile:"Debug\MMWindow.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Administrator.ZGC-20121015TEI\Desktop\计组课程设计\MMWindow\Debug\MMWindow.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Administrator.ZGC-20121015TEI\Desktop\计组课程设计\MMWindow\Debug\MMWindow.lib" /MACHINE:X86 Debug\MMWindow.res
+         Debug\MMWindow.exe.embed.manifest.res
+         Debug\Animation.obj
+         Debug\CPU.obj
+         Debug\CPUOperator.obj
+         Debug\CShockwaveFlash.obj
+         Debug\Insertdata.obj
+         Debug\LoadAPPPage.obj
+         Debug\MainMemory.obj
+         Debug\MainPage.obj
+         Debug\MemoryChecker.obj
+         Debug\MMWindow.obj
+         Debug\MMWindowDlg.obj
+         Debug\operators1.obj
+         Debug\operators3.obj
+         Debug\ProcessorBase2.obj
+         Debug\stdafx.obj
+         Debug\utils.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\MMWindow.exe.embed.manifest" /manifest Debug\MMWindow.exe.intermediate.manifest D:\VC2010\VC\Include\Manifest\dpiaware.manifest
+         所有输出均为最新。
+       LinkEmbedManifest:
+         所有输出均为最新。
+         MMWindow.vcxproj -> C:\Users\Administrator.ZGC-20121015TEI\Desktop\计组课程设计\MMWindow\Debug\MMWindow.exe
+       FinalizeBuildStatus:
+         正在删除文件“Debug\MMWindow.unsuccessfulbuild”。
+         正在对“Debug\MMWindow.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“C:\Users\Administrator.ZGC-20121015TEI\Desktop\计组课程设计\MMWindow\MMWindow\MMWindow.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:27.16
